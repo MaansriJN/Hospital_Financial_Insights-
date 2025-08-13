@@ -2,16 +2,16 @@
 
 **Author:** Maansri JN 
 
-## 📌 Overview
+##  Overview
 Interactive Python interface to analyze hospital finances, predict treatment costs using Random Forest, and generate insights on revenue, staff salaries, operational costs, and profitability.
 
-## 📂 Dataset
+##  Dataset
 - 2000 patient records with multiple departments & staff roles.
 - Columns:
   - `patient_id`, `department`, `staff_id`, `staff_role`
   - `treatment_cost`, `staff_expenses`, `operational_costs`, `date`
 
-## ⚙️ Steps
+##  Steps
 1. Load and clean the dataset.
 2. Feature engineering (`total_cost`, `staff_expense_ratio`).
 3. Exploratory Data Analysis (cost distributions, department averages).
@@ -24,7 +24,7 @@ Interactive Python interface to analyze hospital finances, predict treatment cos
    - Operational Costs
    - Profitability
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/<MaansriJN>/Hospital_Financial_Insights-.git
