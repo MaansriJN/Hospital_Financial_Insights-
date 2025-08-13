@@ -17,8 +17,6 @@ Interactive Python interface to analyze hospital finances, predict treatment cos
 **Treatment Cost Distribution**  
 ![Cost Distribution](images/cost_distribution.png)
 
-
-
 ##  How to Run
 1. Clone the repo:
    ```bash
