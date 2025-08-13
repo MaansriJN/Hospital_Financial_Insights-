@@ -3,7 +3,7 @@
 ##  Overview
 Interactive Python project to analyze hospital finances, predict treatment costs, and provide actionable insights. It uses historical patient and staff data to calculate revenue, staff salaries, operational costs, and profitability. The project leverages Random Forest Regression for accurate cost prediction and includes an interactive Gradio dashboard to visualize results for any selected period.
 
-###Key Features:
+### Key Features:
 
 - Predict treatment costs with Random Forest
 
@@ -13,7 +13,7 @@ Interactive Python project to analyze hospital finances, predict treatment costs
 
 - Provides insights for hospital financial decision-making
 
-###Technologies Used: 
+### Technologies Used: 
 - Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Gradio
    
 ## Key Results
