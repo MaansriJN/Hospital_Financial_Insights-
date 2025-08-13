@@ -1,7 +1,5 @@
 # Hospital_Financial_Insights-
 
-**Author:** Maansri JN 
-
 ##  Overview
 Interactive Python interface to analyze hospital finances, predict treatment costs using Random Forest, and generate insights on revenue, staff salaries, operational costs, and profitability.
 
