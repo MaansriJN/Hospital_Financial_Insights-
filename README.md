@@ -1,13 +1,20 @@
 # Hospital_Financial_Insights-
 
 ##  Overview
-Interactive Python interface to analyze hospital finances, predict treatment costs using Random Forest, and generate insights on revenue, staff salaries, operational costs, and profitability.
+Interactive Python project to analyze hospital finances, predict treatment costs, and provide actionable insights. It uses historical patient and staff data to calculate revenue, staff salaries, operational costs, and profitability. The project leverages Random Forest Regression for accurate cost prediction and includes an interactive Gradio dashboard to visualize results for any selected period.
 
-##  Dataset
-- 2000 patient records with multiple departments & staff roles.
-- Columns:
-  - `patient_id`, `department`, `staff_id`, `staff_role`
-  - `treatment_cost`, `staff_expenses`, `operational_costs`, `date`
+###Key Features:
+
+- Predict treatment costs with Random Forest
+
+- Visualize revenue, staff expenses, and operational costs
+
+- Analyze net profit and profitability by department or time period
+
+- Provides insights for hospital financial decision-making
+
+###Technologies Used: 
+- Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Gradio
    
 ## Key Results
 - Random Forest gives near-perfect treatment cost predictions.(R² ≈ 0.999).
