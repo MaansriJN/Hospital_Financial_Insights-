@@ -10,8 +10,9 @@ Interactive Python interface to analyze hospital finances, predict treatment cos
   - `treatment_cost`, `staff_expenses`, `operational_costs`, `date`
    
 ## Key Results
-  -Random Forest gives near-perfect treatment cost predictions.(R² ≈ 0.999).
-  -Dashboard provides visual insights for hospital financial decision-making.
+- Random Forest gives near-perfect treatment cost predictions.(R² ≈ 0.999).
+- Dashboard provides visual insights for hospital financial decision-making.
+
 ### Sample Outputs
 
 **Treatment Cost Distribution**  
