@@ -21,23 +21,10 @@ Interactive Python interface to analyze hospital finances, predict treatment cos
    - Staff & Salary
    - Operational Costs
    - Profitability
+   
 ## Key Results
 Random Forest gives near-perfect treatment cost predictions.(R² ≈ 0.999)
 Dashboard provides visual insights for hospital financial decision-making.
-
-### Sample Outputs
-
-**Treatment Cost Distribution**  
-![Cost Distribution](images/cost_distribution.png)
-
-**Revenue Growth Chart**  
-![Revenue Chart](images/revenue_chart.png)
-
-**Staff Salary Chart**  
-![Staff Salary](images/staff_salary_chart.png)
-
-**Profitability Chart**  
-![Profitability](images/profitability_chart.png)
 
 ##  How to Run
 1. Clone the repo:
